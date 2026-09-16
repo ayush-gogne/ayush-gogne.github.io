@@ -11,7 +11,7 @@ function Projects() {
             <div className='cards-wrapper'>
                 <ul className='cards-items'>
                     <CardItem 
-                      src="brain.webp"
+                      src="/git add .Brain.webp"
                       text="Docker Chatbot (LLM-RAG)"
                       label= "Python, Llama, Numpy, BM25, Dense Retrieval"
                       path= "https://drive.google.com/file/d/1l3mYmX5B2vVO6CQdKQO7ptTXKntZVUfq/view?usp=drive_link"
