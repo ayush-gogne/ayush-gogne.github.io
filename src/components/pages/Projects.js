@@ -17,7 +17,23 @@ function Projects() {
                       path= "https://drive.google.com/file/d/1l3mYmX5B2vVO6CQdKQO7ptTXKntZVUfq/view?usp=drive_link"
                     />
 
+                    <CardItem
+                      src="/Code.webp"
+                      text="Portfolio Website"
+                      label="React, JavaScript, HTML, CSS, GitHub Pages"
+                      path="https://github.com/ayush-gogne/ayush-gogne.github.io"
+                    />
+
+                    <CardItem
+                      src="/Pixels.webp"
+                      text="Cellular Automata Simulator"
+                      label="Java, Java Runtime Environment"
+                      path="https://drive.google.com/file/d/1Sk2aTjPa4c_qQZSDgMO1Lcd2PRz50M71/view?usp=drive_link"
+                    />
+
                 </ul>
+
+                
             </div>
         </div>
       
