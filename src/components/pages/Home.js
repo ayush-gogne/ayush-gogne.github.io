@@ -14,10 +14,10 @@ function Home() {
             
                 <div className="hero-text">
                     <h1>Hi, my name is <span>Ayush Gogne</span></h1>
-                    <p>I am a BSC. Computer Science graduate of Wilfrid Laurier University.
+                    <p>I am a BSc. Computer Science graduate of Wilfrid Laurier University.
                     </p>
                     <p2>
-                        Some programming languages I have experience using include:
+                        Programming languages I have applied throughout my academic and professional experience include:
                     </p2>
 
                     <div className="hero-code">
