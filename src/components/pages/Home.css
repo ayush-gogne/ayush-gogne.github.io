@@ -1,7 +1,6 @@
 .hero-container {
-    height: calc(90vh);
+    min-height: 90vh;
     width: 100%;
-    white-space: nowrap;
 }
 
 .hero-text {
@@ -35,11 +34,15 @@
 }
 
 .hero-text p2 {
-    align-items: center;
+    display: block;
     margin-top: 16px;
     font-size: 18px;
     text-align: center;
-    width: 50%;
+    width: 66%;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
     color: #aebed0;
 }
 
@@ -48,7 +51,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 66%;
     margin-top: 8px;
 }
 
