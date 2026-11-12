@@ -16,9 +16,6 @@ function Home() {
                     <h1>Hi, my name is <span>Ayush Gogne</span></h1>
                     <p>I am a BSc. Computer Science graduate of Wilfrid Laurier University.
                     </p>
-                    <p2>
-                        Programming languages I have applied throughout my academic and professional experience include:
-                    </p2>
 
                     <div className="hero-code">
 
@@ -30,12 +27,6 @@ function Home() {
                         
                     </div>
 
-                    <div className = 'hero-btn'>
-                        <Button buttonStyle='btn--outline' buttonSize='btn--large' to={'mailto:ayushgogne23@gmail.com'}> 
-                            <i class="fa-solid fa-envelope"/>
-                            Contact Me
-                        </Button>
-                    </div>
                     
 
                     
