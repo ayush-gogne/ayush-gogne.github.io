@@ -16,17 +16,17 @@ function Home() {
                     <p>I am a BSc. Computer Science graduate of Wilfrid Laurier University.
                     </p>
 
-                    <div className="hero-code">
+                    <div className="programming-section">
+                        <p>Proficient in several programming languages</p>
 
-                        {arr.map((item, index) => (
+                        <div className="hero-code">
+                            {arr.map((item, index) => (
                             index < arr.length - 1 && <code key={index}>{item},</code>
-                        ))}
-                        <code>{arr[arr.length - 1]}</code>
-                        
-                        
+                            ))}
+                            <code>{arr[arr.length - 1]}</code>
+                        </div>
                     </div>
 
-                    
 
                     
                 </div>
